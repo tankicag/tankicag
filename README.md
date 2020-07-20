@@ -6,8 +6,8 @@
 ## 🚀 Goals for 2020
 To live and work as a programmer in Manchester, UK
 Here are some ideas to get you started: -->
-
 ![](received_415822225910278.png)
+❮img src="received_415822225910278.png" ❯
 
 - 🔭 I’m currently working on SourceMX Academy.
 - 🌱 I’m currently learning React.
