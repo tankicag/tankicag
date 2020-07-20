@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on SourceMX Academy.
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: I am an instructor for HTML CSS basic level in [@sourceMX-academy]
+- ⚡ Fun fact: I am an instructor for HTML CSS basic level in [@sourcemx-academy]
 
 ### 📩 Contact Me on Social Media
 [LinkedIn](https://www.linkedin.com/in/tankica-goneva/) | [Twitter](https://twitter.com/tankica_g) | [Email](mailto:gonevatankica@gmail.com) | 
