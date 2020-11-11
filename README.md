@@ -14,6 +14,6 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I am an instructor for HTML CSS basic level in [@sourcemx-academy](https://github.com/sourcemx-academy) 
 
 ### 📩 Contact Me on Social Media
-[LinkedIn](https://www.linkedin.com/in/tankica-goneva/) | [Twitter](https://twitter.com/tankica_g) | [Email](mailto:gonevatankica@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/tankica-spasev/) | [Twitter](https://twitter.com/tankica_g) | [Email](mailto:gonevatankica@gmail.com) | 
 
 #### 🙌 Thank you to visit my GitHub profile.
