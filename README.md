@@ -11,7 +11,6 @@ Here are some ideas to get you started: -->
 
 - 👀 I’m currently looking for a job
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: I am an instructor for HTML CSS basic level in [@sourcemx-academy](https://github.com/sourcemx-academy) 
 
 ### 📩 Contact Me on Social Media
 [LinkedIn](https://www.linkedin.com/in/tankica-spasev/) | [Twitter](https://twitter.com/tankica_g) | [Email](mailto:gonevatankica@gmail.com) | 
