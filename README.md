@@ -13,6 +13,6 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning React.
 
 ### 📩 Contact Me on Social Media
-[LinkedIn](https://www.linkedin.com/in/tankica-spasev/) | [Twitter](https://twitter.com/tankica_g) | [Email](mailto:gonevatankica@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/tankica-spasev/) | [Twitter](https://twitter.com/tankica_g) | [Email](mailto:gonevatankica@gmail.com) | [Instagram](https://www.instagram.com/tanicoder/)
 
 #### 🙌 Thank you to visit my GitHub profile.
